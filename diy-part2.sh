@@ -24,7 +24,6 @@ git clone https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
 git clone https://github.com/frainzy1477/luci-app-clash.git package/clash
 git clone https://github.com/project-openwrt/luci-app-unblockneteasemusic.git package/unblockneteasemusicadvance
 git clone https://github.com/Lienol/openwrt-package.git package/lienol
-git clone https://github.com/Sunnice/lienolps.git package/passwall
 git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argonnew
 git clone https://github.com/Lienol/luci-theme-darkmatter.git package/luci-theme-darkmatter
 git clone https://github.com/rosywrt/luci-theme-rosy.git package/luci-theme-rosy
@@ -36,5 +35,7 @@ git clone https://github.com/Leo-Jo-My/luci-theme-Butterfly-dark.git package/luc
 git clone https://github.com/Leo-Jo-My/luci-theme-leo.git package/luci-theme-leo
 git clone https://github.com/rosywrt/luci-theme-purple.git package/luci-theme-purple
 git clone https://github.com/siropboy/luci-theme-btmod.git package/luci-theme-btmod
-git clone https://github.com/tano-systems/luci-theme-tano.git package/luci-theme-tano
+git clone -b dependabot/npm_and_yarn/lodash-4.17.15 https://github.com/tano-systems/luci-theme-tano.git package/luci-theme-tano
 git clone https://github.com/solidus1983/luci-theme-opentomato.git package/luci-theme-opentomato2
+git clone https://github.com/kenzok8/luci-theme-ifit.git package/luci-theme-ifit
+git clone https://github.com/Aslin-Ameng/luci-theme-Night.git package/luci-theme-Night
